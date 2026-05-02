@@ -1,0 +1,46 @@
+{
+  "$schema": "https://github.com/SideStore/sidestore-source-types/raw/main/schema.json",
+  "identifier": "net.roxyapps.source",
+  "name": "Roxys Apps",
+  "subtitle": "Mobile & Web Development",
+  "description": "Welcome to Roxy Apps! Here you'll find all of my apps.",
+  "iconURL": "https://i.postimg.cc/ht9FGpcR/icon.png",
+  "website": "https://roxyapps.net",
+  "patreonURL": "",
+  "tintColor": "#8c32c8",
+  "headerURL": "https://i.postimg.cc/kGzr2H2v/roxy-banner.png",
+  "sourceURL": "https://roxyapps.net/altstore/source.json",
+  "featuredApps": [
+    "fr12026.Fun-Run"
+  ],
+  "apps": [
+    {
+      "name": "Fun Run",
+      "bundleIdentifier": "fr12026.Fun-Run",
+      "developerName": "Ulaş Sancak",
+      "subtitle": "Multiplayer Race",
+      "localizedDescription": "Race against your friends or random people! Race against your friends or random people in real-time! All the cutest, furriest creatures of the forest are out running. For you to remain a cool critter, it is essential that you finish the race before your furry friends. No amount of force is excessive.",
+      "iconURL": "https://i.postimg.cc/7P3whH9x/icon.png",
+      "tintColor": "#4FA3D1",
+      "category": "games",
+      "screenshots": [],
+      "downloadURL": "https://github.com/rocxteady/FunRun1/releases/download/2.24.1/FunRun.ipa",
+      "versions": [
+        {
+          "downloadURL": "https://github.com/rocxteady/FunRun1/releases/download/2.24.1/FunRun.ipa",
+          "size": 33600000,
+          "version": "2.24.1",
+          "buildVersion": "2026.5.21812",
+          "date": "2026-05-02T23:14:00+03:00",
+          "minOSVersion": "12.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
