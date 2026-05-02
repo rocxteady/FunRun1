@@ -8,7 +8,7 @@
   "website": "https://roxyapps.net",
   "tintColor": "#8c32c8",
   "headerURL": "https://i.postimg.cc/kGzr2H2v/roxy-banner.png",
-  "sourceURL": "https://raw.githubusercontent.com/rocxteady/FunRun1/main/altstore/source.json",
+  "sourceURL": "https://raw.githubusercontent.com/rocxteady/FunRun1/refs/heads/main/altstore/source.json",
   "featuredApps": [
     "fr12026.Fun-Run"
   ],
